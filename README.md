@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asmir</h1>
-<h3 align="center">A passionate java-fullstack developer from Bosnia and Herzegovina</h3>
+<h3 align="center">A passionate java full-stack developer from Bosnia and Herzegovina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmirkopic&label=Profile%20views&color=0e75b6&style=flat" alt="asmirkopic" /> </p>
 
